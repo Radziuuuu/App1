@@ -6,5 +6,10 @@ namespace WinFormsApp1
         {
             InitializeComponent();
         }
+
+        private void BtnClick(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
