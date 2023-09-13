@@ -30,6 +30,7 @@ namespace WinFormsApp1
             Point topLeftCorner = new Point(randomLeft, randomTop);
             //button1 -> atrybut mojego przycisku :>
             button1.Location = topLeftCorner;
+            //test 1
         }
     }
 }
